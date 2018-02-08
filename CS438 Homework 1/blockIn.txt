@@ -1,0 +1,14 @@
+24 
+move 1 over 0
+move 2 onto 0
+move 5 over 0
+move 22 over 5 
+pile 22 over 11
+move 12 over 22
+move 13 over 22
+move 23 over 22
+pile 0 onto 9
+pile 23 over 12
+pile 23 over 23
+move 4 onto 4
+quit
